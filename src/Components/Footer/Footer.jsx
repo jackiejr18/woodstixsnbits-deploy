@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className="footer-logo">
-        <img src={footer_logo}/>
+        <img src={footer_logo} alt=''/>
         <p>WoodStixsNBits</p>
       </div>
       <ul className='footer-links'>
@@ -21,13 +21,13 @@ const Footer = () => {
       </ul>
       <div className='footer-social-icon'>
         <div className='footer-icons-container'>
-          <img src={instagram_icon}/>
+          <img src={instagram_icon} alt=''/>
         </div>
         <div className='footer-icons-container'>
-          <img src={pintester_icon}/>
+          <img src={pintester_icon} alt=''/>
         </div>
         <div className='footer-icons-container'>
-          <img src={whatsapp_icon}/>
+          <img src={whatsapp_icon} alt=''/>
         </div>
       </div>
       <div className='footer-copyright'>
