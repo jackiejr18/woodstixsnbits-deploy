@@ -17,3 +17,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Pokemon Classic';
+  src: local('./Pokemon Classic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
