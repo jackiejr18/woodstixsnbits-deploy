@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ShopContextProvider from './Context/ShopContext';
+import '/Users/jackiejr/Desktop/Web Design/react-ecommerce-woodstixsnbits/frontend/src/Fonts/munro.ttf'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
