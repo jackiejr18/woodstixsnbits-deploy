@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Pokemon Classic';
+  src: local('frontend/src/Fonts/Pokemon Classic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 *{
   margin: 0;
 }
@@ -10,18 +18,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Pokemon Classic';
-
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-@font-face {
-  font-family: 'Pokemon Classic';
-  src: local('./Pokemon Classic.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 
