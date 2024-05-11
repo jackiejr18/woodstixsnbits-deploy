@@ -1,10 +1,4 @@
-@font-face {
-  font-family: 'Munro';
-  src: local('Munro'), url('/Users/jackiejr/Desktop/Web Design/react-ecommerce-woodstixsnbits/frontend/src/Fonts/munro.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Pixelify+Sans:wght@400..700&family=Play:wght@400;700&display=swap');
 
 *{
   margin: 0;
@@ -17,7 +11,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Munro';
+  font-family: "Play", sans-serif;
+  font-weight: 400;
 }
 
 code {
