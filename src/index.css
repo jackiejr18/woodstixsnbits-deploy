@@ -1,5 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Pixelify+Sans:wght@400..700&family=Play:wght@400;700&display=swap');
-
+@font-face {
+  font-family: 'Play';
+  src: local('Play'), url('/Users/jackiejr/Desktop/Web Design/react-ecommerce-woodstixsnbits/frontend/src/Fonts/Play-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+	
 *{
   margin: 0;
 }
