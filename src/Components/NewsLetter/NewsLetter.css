@@ -10,7 +10,7 @@
   margin-bottom: 150px;
   background: linear-gradient(180deg, #996633 0%, #e1ffea22 60%);
   gap: 30px;
-  position: relative; 
+  position: static; 
 }
 
 .newsletter h1 {
